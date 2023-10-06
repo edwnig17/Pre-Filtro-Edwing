@@ -4,23 +4,23 @@
 
 ## Descripción
 
-Pizza House Master es una plataforma de gestión y reservas para un restaurante especializado en pizzas. He creado esta aplicación con el objetivo de ofrecer a los amantes de la pizza una experiencia única al explorar nuestro menú, realizar pedidos en línea y reservar mesas para disfrutar de una deliciosa comida.
+Pizza House Master es una plataforma de gestión y reservas para un restaurante especializado en pizzas. **Yo** he creado esta aplicación con el objetivo de ofrecer a los amantes de la pizza una experiencia única al explorar nuestro menú, realizar pedidos en línea y reservar mesas para disfrutar de una deliciosa comida.
 
 ## Estructura del Proyecto
 
-Mi proyecto se divide en dos partes:
+**Mi** proyecto se divide en dos partes:
 
 ### Backend
 
-En la carpeta `/backend`, encontrarás todo el código del servidor backend. Aquí manejo la lógica de negocio y la gestión de datos, utilizando tecnologías como Node.js, Express.js, MongoDB, Mongoose y Nodemailer. ¡Todo para garantizar que tu experiencia sea excepcional!
+En la carpeta `/backend`, encontrarás todo el código del servidor backend. Aquí se maneja la lógica de negocio y la gestión de datos, utilizando tecnologías como Node.js, Express.js, MongoDB, Mongoose y Nodemailer. ¡Todo para garantizar que tu experiencia sea excepcional!
 
 ### Frontend
 
-La carpeta `/frontend` contiene el código del cliente frontend. Está construido en React, y utilizo React Router para la navegación. También he trabajado en los estilos CSS y en la configuración de las rutas en React Router para que la aplicación sea atractiva y fácil de usar.
+La carpeta `/frontend` contiene el código del cliente frontend. Está construido en React, y se utiliza React Router para la navegación. También se ha trabajado en los estilos CSS y en la configuración de las rutas en React Router para que la aplicación sea atractiva y fácil de usar.
 
 ## Tecnologías Utilizadas
 
-Mi proyecto utiliza una variedad de tecnologías para brindarte la mejor experiencia:
+**Mi** proyecto utiliza una variedad de tecnologías para brindarte la mejor experiencia:
 
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose, Nodemailer, etc.
 - **Frontend**: React, React Router, CSS, Axios, etc.
@@ -140,4 +140,3 @@ Una vez que hayas clonado el repositorio y descargado las dependencias, puedes i
 
 ¡Listo! Ahora deberías tener tanto el servidor del backend como el del frontend en funcionamiento y podrás explorar y trabajar en tu proyecto.
 
-Espero que esta información te sea útil. Si tienes alguna otra pregunta, no dudes en preguntar.
