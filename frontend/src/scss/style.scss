@@ -1,0 +1,17 @@
+@use "custom";
+
+@use "./components/typography";
+
+@use "./sections/navbar";
+@use "./sections/cover";
+@use "./sections/notfound";
+@use "./sections/menu";
+@use "./sections/reserves";
+@use "./sections/reserve";
+@use "./sections/drink";
+@use "./sections/party";
+@use "./sections/aboutus";
+@use "./sections/contact";
+@use "./sections/drinkview";
+@use "./sections/menuview";
+@use "./sections/partyview";

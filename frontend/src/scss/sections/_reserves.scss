@@ -1,0 +1,16 @@
+@use "../custom" as *;
+
+.reserves {
+    .reserves-cover {
+        background-image: url("https://raw.githubusercontent.com/edureyesm/Proyecto-Grupal-Restaurant/master/client/src/assets/reserves.jpeg");
+        background-size: cover;
+        min-height: 50vh;
+    }
+
+    .reserves-text {
+        min-height: 50vh;
+    }
+  .custom-primary {
+    background-color: rgba($primary, 0.75);
+  }
+}
