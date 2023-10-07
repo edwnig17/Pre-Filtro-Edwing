@@ -47,7 +47,7 @@ Puedes consultar la documentación de cada uno de los endpoints funcionales en e
 
 Nuestra base de datos es la columna vertebral de Pizza House Master. Puedes echar un vistazo al diagrama de la base de datos en la siguiente imagen:
 
-![Diagrama de Base de Datos](inserta_aquí_la_ruta_de_la_imagen_de_la_base_de_datos.png)
+[![Pizza-bd-page-0001.jpg](https://i.postimg.cc/y8vQq9rH/Pizza-bd-page-0001.jpg)](https://postimg.cc/TK5qgy67)
 
 ## Modelo de Negocio
 
